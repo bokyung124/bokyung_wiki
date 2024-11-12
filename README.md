@@ -1,6 +1,6 @@
 ---
-description: Introduce myself
 icon: hand-wave
+description: Introduce myself
 ---
 
 # Hiiii
@@ -11,12 +11,12 @@ Metric Studio (NNT Tech) 데이터 엔지니어 (2024.03 \~)
 
 **🏫 Education**
 
-숙명여자대학교 소프트웨어융합전공 & 빅데이터전공 (2020 - 2025.02)
+숙명여자대학교 소프트웨어융합전공 & 빅데이터전공 (2020 \~ 2025.02)
 
 **📄 Certification**
 
-* SQLD (2023.04 \~)
-* 정보처리기사 (2024.09 \~)
+* SQLD (2023.04)
+* 정보처리기사 (2024.09)
 
 **📚 Experience**
 
@@ -31,8 +31,8 @@ Metric Studio (NNT Tech) 데이터 엔지니어 (2024.03 \~)
 
 **📃 Paper**
 
-* 딥러닝을 이용한 컨테이너 물동량 예측기술 구현 (2023.11)
-* Spark SQL 및 Hadoop MapReduce 기반 대용량 가명정보 결합 시스템 개발 (2023.12)
+* [딥러닝을 이용한 컨테이너 물동량 예측기술 구현](https://koreascience.kr/article/CFKO202333854992270.page) (2023.11)
+* [Spark SQL 및 Hadoop MapReduce 기반 대용량 가명정보 결합 시스템 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705448) (2023.12)
 
 **💁🏻‍♀️ More**&#x20;
 
