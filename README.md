@@ -17,6 +17,8 @@ Metric Studio (NNT Tech) 데이터 엔지니어 (2024.03 \~)
 * SEO 최적화 개발
   * 플랫폼 별 오가닉 순위 및 키워드 API 데이터 수집 자동화 (AWS Batch, Airflow, BigQuery, 크롤링)
 *  TikTok Event API 연동을 위한 Fast API 개발&#x20;
+* Wordpress 설치, 이관 및 오류 해결
+* Streamlit을 이용한 대시보드 제작 및 자체 서비스 관리 (GCP, python)
 
 **🏫 Education**
 
