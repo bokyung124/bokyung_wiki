@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-description: Introduce myself
+description: A page that organizes what I learned while working and studying on my own ᰔ
 ---
 
 # Hiiii
@@ -8,6 +8,15 @@ description: Introduce myself
 👩‍💻 **Working Now**
 
 Metric Studio (NNT Tech) 데이터 엔지니어 (2024.03 \~)
+
+* GCP, AWS, Fast API, Spring Boot, etc.
+* 마케팅 데이터 웨어하우스 구축
+  * 데이터 가공 모듈 개발 및 데이터 파이프라인 자동화 구축
+  * 서버리스 기반 GCP 아키텍처 구성
+  * 미디어 믹스 개선을 위한 웹사이트 구축 (Spring Boot, Thymeleaf)
+* SEO 최적화 개발
+  * 플랫폼 별 오가닉 순위 및 키워드 API 데이터 수집 자동화 (AWS Batch, Airflow, BigQuery, 크롤링)
+*  TikTok Event API 연동을 위한 Fast API 개발&#x20;
 
 **🏫 Education**
 
