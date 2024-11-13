@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-description: A page that organizes what I learned while working and studying on my own ᰔ
+description: What I learned while working and studying on my own
 ---
 
 # Hiiii
